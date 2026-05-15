@@ -8,5 +8,5 @@ Personal documentation of my journey building a cybersecurity homelab and learni
 - Understand networking, Linux, and security hands-on
 - Document everything
 
-- ## Started
+## Started
 [05/14/2026]
